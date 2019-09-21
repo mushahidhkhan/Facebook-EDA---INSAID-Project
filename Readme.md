@@ -4,14 +4,12 @@ Exploratory data analysis using Python, Numpy, Pandas, Seaborn
 <h2>Table of Contents</h2>
 <ul><li>Problem Statement</li>
 <li>Data Loading and Description</li>
-<li>Data Profiling</li>
+<li>Data Pre-Profiling</li>
 <li>Understanding the Dataset</li>
-<li>Profiling_1</li>
-<li>Preprocessing_1</li>
-<li>Profiling_2</li>
-<li>Preprocessing_2</li>
-<li>Post Profiling</li>
-<li>Conclusions</li></ul>
+<li>Preprocessing the data</li>
+<li>Data Post-Profiling</li>
+<li>Data Analysis and Visualisation</li>
+<li>Report/Conclusions</li></ul>
 
 <h2>Problem Statement</h2>
 <p>The notebooks explores the basic use of Pandas and will cover the basic commands of Exploratory Data Analysis(EDA) which includes cleaning, munging, combining, reshaping, slicing, dicing, and transforming data for analysis purpose.</p>
