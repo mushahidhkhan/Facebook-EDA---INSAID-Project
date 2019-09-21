@@ -48,6 +48,6 @@ Exploratory data analysis using Python, Numpy, Pandas, Seaborn
 <h3>Some Background Information</h3>
 <ul><li>This sample data was collected from Facebook and provided by INSAID team to perform Exploratory Data Analysis.</li>
   <li>This dataset has real raw data which has all inconvenient moments (as NA’s for example).</li>
-<li>This dataset contains data 99003 Records with 14 Numeric Coloumns and 1 Categorical Coloumn.</li></ul>
+<li>This dataset contains 99003 Records with 14 Numeric Coloumns and 1 Categorical Coloumn.</li></ul>
 
 <h2>--><a href="https://github.com/mushahidhkhan/">Access Python Notebook Here</a></h2>
