@@ -35,7 +35,6 @@ Exploratory data analysis using Python, Numpy, Pandas, Seaborn
 <tr><td>dob_year	</td><td>Year of Birth</td></tr>
 <tr><td>dob_month	</td><td>month of Birth</td></tr>
 <tr><td>gender	</td><td>Gender of the person who joined Facebook</td></tr>
-<tr><td>registration	</td><td>whether car registered in Ukraine or not</td></tr>
 <tr><td>tenure	</td><td>No. of days since the person is using Facebook</td></tr>
 <tr><td>friend_count	</td><td>Number of Friends the person have added on his profile</td></tr>
   <tr><td>friendships_initiated	</td><td>Number of Friend Request sent by the person </td></tr>
