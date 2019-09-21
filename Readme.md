@@ -33,7 +33,7 @@ Exploratory data analysis using Python, Numpy, Pandas, Seaborn
   <tr><td>age</td>	<td>	Age of the person when he joined Facebook</td></tr>
   <tr><td>dob_day	</td><td>Date of Birth</td></tr>
 <tr><td>dob_year	</td><td>Year of Birth</td></tr>
-<tr><td>dob_month	</td><td>month of Birth</td></tr>
+<tr><td>dob_month	</td><td>Month of Birth</td></tr>
 <tr><td>gender	</td><td>Gender of the person who joined Facebook</td></tr>
 <tr><td>tenure	</td><td>No. of days since the person is using Facebook</td></tr>
 <tr><td>friend_count	</td><td>Number of Friends the person have added on his profile</td></tr>
