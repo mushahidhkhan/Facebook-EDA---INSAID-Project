@@ -15,7 +15,7 @@ Exploratory data analysis using Python, Numpy, Pandas, Seaborn
 <p>The notebooks explores the basic use of Pandas and will cover the basic commands of Exploratory Data Analysis(EDA) which includes cleaning, munging, combining, reshaping, slicing, dicing, and transforming data for analysis purpose.</p>
 
 <ul><h3>Exploratory Data Analysis<h3>
-<p>Understand the data by EDA and derive simple models with Pandas as baseline. EDA ia a critical and first step in analyzing the data and we do this for below reasons :</p>
+<p>Understand the data by EDA and derive simple models with Pandas as baseline. EDA is a critical and first step in analyzing the data and we do this for below reasons :</p>
   <li>Finding patterns in Data</li>
 <li>Determining relationships in Data</li>
 <li>Checking of assumptions</li>
